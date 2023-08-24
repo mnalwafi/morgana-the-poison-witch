@@ -1,6 +1,6 @@
 1. To run this game, you need to download Greenfoot first
      1a. If you are using homebrew just copy and paste this code
-          ```terminal
+```terminal
 $ brew install --cask greenfoot
 ```
 
