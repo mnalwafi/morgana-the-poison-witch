@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=kucing
+comment0.text=\n\ Write\ a\ description\ of\ class\ kucing\ here.\n\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=difficulties\ stage
+comment1.target=kucing(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ dimakan()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=soundFile\ durationMs
+comment4.target=void\ playSoundForDuration(java.lang.String,\ int)
+numComments=5
